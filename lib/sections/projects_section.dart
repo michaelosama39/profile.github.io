@@ -36,7 +36,7 @@ class ProjectsSection extends StatelessWidget {
               crossAxisCount: crossAxisCount,
               crossAxisSpacing: 16,
               mainAxisSpacing: 16,
-              childAspectRatio: isMobile ? 1.6 : 1.3,
+              childAspectRatio: isMobile ? 1.4 : 1.3,
             ),
             itemCount: projects.length,
             itemBuilder: (_, i) => _ProjectCard(
