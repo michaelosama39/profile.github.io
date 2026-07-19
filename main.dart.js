@@ -62714,7 +62714,7 @@ M(a){var s,r,q,p=null,o=this.c,n=A.bV(a,p,t.w).w.a.a,m=n<768
 if(m)s=1
 else s=n<1100?2:3
 r=m?20:60
-q=m?1.6:1.3
+q=m?1.4:1.3
 return A.bn(p,A.bv(A.c([new A.iH("03","PROJECTS",o,p),B.dy,new A.tb(new A.F8(s,16,16,q,p),new A.a_Y(new A.Xm(o),7,!0,!0,!0,p),p,B.at,!1,p,p,B.qb,!0,p,7,B.ae,p,p,B.aj,B.al,p)],t.p),B.D,B.r),B.q,o.b,p,p,p,p,p,new A.aB(r,80,r,80),p,p,1/0)}}
 A.Xm.prototype={
 $2(a,b){return new A.mU(B.D6[b],this.a,null)},
